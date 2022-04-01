@@ -13,3 +13,13 @@ and file changes in a repository (“repo”)
 A web service for hosting your git repositories and
 managing software projects (e.g. bug tracking, team
 organisation)
+
+
+
+Basic Terms in git 
+
+Repository
+A directory that has been "initialized" so that git can
+record changes made to files within it.
+Often shortened to "repo".
+An initialized repository has a .git file in it.
